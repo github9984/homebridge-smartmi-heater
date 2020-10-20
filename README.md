@@ -78,6 +78,15 @@
 
 8. Restart Homebridge, and your device will be added to Home app.
 
+``` 
+### Troubleshooting obtaining token
+
+If you can't obtain token, or it is wrong (as you can see from the homebridge console), please do the following:
+
+1. Connect the heater to mi home app
+
+2. Obtain token using [one of the following methods](https://github.com/Maxmudjon/com.xiaomi-miio/blob/master/docs/obtain_token.md)
+
 # License
 
 MIT License
